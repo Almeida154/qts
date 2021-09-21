@@ -1,0 +1,585 @@
+2021-08-03 19:51:58,494 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-03 19:56:49,118 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-03 19:58:49,767 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\pom.xml
+2021-08-03 19:58:50,485 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: etec:locadora:0.0.1-SNAPSHOT @ E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\pom.xml.
+2021-08-03 19:58:50,656 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /locadora/src/main/java
+2021-08-03 19:58:50,680 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /locadora/src/test/java
+2021-08-03 19:58:50,935 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2021-08-03 19:58:51,978 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 19:58:51,979 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 19:58:51,981 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 19:58:51,981 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 19:59:11,474 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 19:59:11,474 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 19:59:11,475 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 19:59:11,476 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 19:59:51,743 [Worker-23: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 19:59:51,743 [Worker-23: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 19:59:51,745 [Worker-23: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 19:59:51,745 [Worker-23: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:00:07,542 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:00:07,542 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:00:07,544 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:00:07,544 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:02:23,335 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:02:23,335 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:02:23,335 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:02:23,335 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:03:19,807 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:03:19,807 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:03:19,808 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:03:19,808 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:03:34,323 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:03:34,324 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:03:34,324 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:03:34,324 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:03:41,356 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:03:41,357 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:03:41,359 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:03:41,359 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:04:17,201 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:04:17,201 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:04:17,202 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:04:17,202 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:04:22,319 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:04:22,319 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:04:22,320 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:04:22,320 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:04:28,895 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:04:28,896 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:04:28,896 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:04:28,896 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:06:56,963 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:06:56,963 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:06:56,965 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:06:56,965 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:07:14,505 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:07:14,505 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:07:14,506 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:07:14,506 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:07:22,321 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:07:22,322 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:07:22,323 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:07:22,323 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:07:34,010 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:07:34,010 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:07:34,011 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:07:34,011 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:08:12,256 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:08:12,257 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:08:12,259 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:08:12,259 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:08:17,370 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:08:17,370 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:08:17,370 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:08:17,371 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:12:34,343 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:12:34,343 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:12:34,345 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:12:34,345 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:14:34,653 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:14:34,653 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:14:34,654 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:14:34,654 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:16:30,048 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:16:30,049 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:16:30,049 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:16:30,049 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:18:23,124 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:18:23,124 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:18:23,125 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:18:23,125 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:20:05,674 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:20:05,674 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:20:05,675 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:20:05,675 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:25:53,458 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:25:53,458 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:25:53,459 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:25:53,459 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:27:30,099 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:27:30,100 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:27:30,100 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:27:30,100 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:29:41,794 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:29:41,794 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:29:41,795 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:29:41,795 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:29:59,798 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:29:59,798 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:29:59,799 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:29:59,799 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:33:31,302 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:33:31,303 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:33:31,303 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:33:31,303 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:34:25,062 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:34:25,062 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:34:25,063 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:34:25,063 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:37:22,774 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:37:22,775 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:37:22,775 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:37:22,775 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:37:35,185 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:37:35,185 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:37:35,186 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:37:35,186 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:37:46,737 [Worker-24: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:37:46,737 [Worker-24: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:37:46,738 [Worker-24: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:37:46,738 [Worker-24: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:38:45,758 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:38:45,759 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:38:45,760 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:38:45,760 [Worker-35: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:39:30,611 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:39:30,611 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:39:30,612 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:39:30,612 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:40:26,540 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:40:26,540 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:40:26,541 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:40:26,541 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:47:43,623 [Worker-37: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:47:43,624 [Worker-37: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:47:43,625 [Worker-37: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:47:43,625 [Worker-37: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:50:58,972 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:50:58,972 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:50:58,973 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:50:58,973 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 20:54:32,382 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:54:32,383 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 20:54:32,383 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 20:54:32,383 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:04:26,573 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:04:26,573 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:04:26,574 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:04:26,574 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:09:01,640 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:09:01,640 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:09:01,641 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:09:01,641 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:10:06,993 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:10:06,993 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:10:06,994 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:10:06,994 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:10:25,934 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:10:25,934 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:10:25,934 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:10:25,934 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:13:15,185 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:13:15,186 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:13:15,187 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:13:15,187 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:19:12,207 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:19:12,207 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:19:12,208 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:19:12,208 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:21:59,250 [Worker-47: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:21:59,251 [Worker-47: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:21:59,251 [Worker-47: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:21:59,251 [Worker-47: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:23:54,830 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:23:54,831 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:23:54,831 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:23:54,831 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:24:48,515 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:24:48,515 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:24:48,516 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:24:48,517 [Worker-45: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:25:49,987 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:25:49,987 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:25:49,988 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:25:49,988 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:27:52,060 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:27:52,060 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:27:52,060 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:27:52,060 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:29:55,277 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:29:55,277 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:29:55,278 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:29:55,278 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:33:28,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:33:28,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:33:28,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:33:28,080 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:34:22,635 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:34:22,635 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:34:22,636 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:34:22,636 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:35:31,925 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:35:31,925 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:35:31,926 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:35:31,926 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:36:22,055 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:36:22,055 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:36:22,056 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:36:22,056 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:36:24,096 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:36:24,096 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:36:24,097 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:36:24,097 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:38:02,470 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:38:02,470 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:38:02,470 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:38:02,471 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:38:21,314 [Worker-51: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:38:21,314 [Worker-51: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:38:21,315 [Worker-51: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:38:21,315 [Worker-51: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:40:42,556 [Worker-57: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:40:42,557 [Worker-57: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:40:42,557 [Worker-57: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:40:42,557 [Worker-57: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:41:25,842 [Worker-52: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:41:25,843 [Worker-52: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:41:25,844 [Worker-52: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:41:25,844 [Worker-52: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:42:15,536 [Worker-58: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:42:15,536 [Worker-58: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:42:15,537 [Worker-58: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:42:15,537 [Worker-58: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:43:44,117 [Worker-55: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:43:44,117 [Worker-55: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:43:44,118 [Worker-55: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:43:44,118 [Worker-55: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:43:53,675 [Worker-59: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:43:53,676 [Worker-59: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:43:53,676 [Worker-59: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:43:53,676 [Worker-59: Launching LocationService] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:46:10,521 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:46:10,522 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:46:10,522 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:46:10,522 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:55:35,550 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:55:35,550 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:55:35,551 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:55:35,551 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 21:57:09,461 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:57:09,461 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 21:57:09,462 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 21:57:09,462 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-03 22:15:02,476 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-03 22:16:32,774 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 22:16:32,775 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-03 22:16:32,777 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 22:16:32,777 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:45:23,736 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-25 13:49:21,481 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:49:21,482 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:49:21,484 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:49:21,484 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:50:49,975 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:50:49,976 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:50:49,977 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:50:49,978 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:52:15,657 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:52:15,657 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:52:15,658 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:52:15,658 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:57:12,110 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:57:12,110 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:57:12,112 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:57:12,112 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:57:40,866 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:57:40,867 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:57:40,868 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:57:40,868 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:58:32,097 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:58:32,098 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:58:32,099 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:58:32,099 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:59:05,964 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:59:05,964 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:59:05,966 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:59:05,966 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 13:59:42,777 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:59:42,778 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 13:59:42,779 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 13:59:42,779 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:00:04,342 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:00:04,342 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:00:04,343 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:00:04,343 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:00:50,712 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:00:50,713 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:00:50,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:00:50,714 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:01:06,413 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:01:06,413 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:01:06,414 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:01:06,414 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:01:25,196 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:01:25,197 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:01:25,197 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:01:25,198 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:02:32,796 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:02:32,796 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:02:32,797 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:02:32,797 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:08:50,817 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:08:50,818 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:08:50,819 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:08:50,819 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:09:10,066 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:09:10,066 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:09:10,067 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:09:10,067 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:09:17,570 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:09:17,570 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:09:17,572 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:09:17,572 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:09:41,746 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:09:41,746 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:09:41,747 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:09:41,747 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:11:46,605 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:11:46,605 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:11:46,606 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:11:46,606 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:12:10,843 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:12:10,843 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:12:10,844 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:12:10,844 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:12:20,360 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:12:20,360 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:12:20,361 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:12:20,361 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:12:46,916 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:12:46,916 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:12:46,917 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:12:46,917 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:13:02,522 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:13:02,523 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:13:02,524 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:13:02,524 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:13:43,506 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:13:43,506 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:13:43,507 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:13:43,507 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:14:09,093 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:14:09,093 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:14:09,094 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:14:09,094 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:15:23,055 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:15:23,056 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:15:23,056 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:15:23,057 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:16:16,834 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:16:16,834 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:16:16,836 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:16:16,836 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:17:03,684 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:17:03,685 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:17:03,686 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:17:03,686 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:19:15,865 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:19:15,865 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:19:15,866 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:19:15,866 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:20:31,835 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:20:31,835 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:20:31,836 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:20:31,836 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:22:24,095 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:22:24,095 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:22:24,095 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:22:24,096 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:23:22,623 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:23:22,623 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:23:22,623 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:23:22,623 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:24:13,310 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:24:13,310 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:24:13,311 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:24:13,311 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:25:17,584 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:25:17,584 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:25:17,585 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:25:17,585 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:26:04,420 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:26:04,420 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:26:04,421 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:26:04,422 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:27:45,583 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:27:45,584 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:27:45,584 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:27:45,584 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:30:07,367 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:30:07,367 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:30:07,368 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:30:07,368 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:33:35,768 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:33:35,768 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:33:35,768 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:33:35,768 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:34:33,238 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:34:33,239 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:34:33,239 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:34:33,239 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:34:58,741 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:34:58,741 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:34:58,742 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:34:58,742 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:35:34,744 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:35:34,745 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:35:34,745 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:35:34,745 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:37:11,455 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:37:11,455 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:37:11,455 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:37:11,456 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:37:54,834 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:37:54,834 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:37:54,835 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:37:54,835 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:38:13,657 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:38:13,657 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:38:13,658 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:38:13,658 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:38:45,790 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:38:45,791 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:38:45,791 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:38:45,791 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:40:28,113 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:40:28,113 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:40:28,113 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:40:28,113 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:43:01,680 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:43:01,680 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:43:01,681 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:43:01,681 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:47:01,050 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:47:01,051 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:47:01,051 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:47:01,051 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:47:44,274 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:47:44,274 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:47:44,274 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:47:44,274 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:47:54,839 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:47:54,839 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:47:54,839 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:47:54,839 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:48:08,880 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:48:08,880 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:48:08,881 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:48:08,881 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:49:54,537 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:49:54,538 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:49:54,538 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:49:54,538 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:49:57,137 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:49:57,137 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:49:57,138 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:49:57,138 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:53:23,600 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:53:23,600 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:53:23,601 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:53:23,601 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:54:53,693 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:54:53,693 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:54:53,694 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:54:53,694 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:56:47,381 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:56:47,382 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:56:47,382 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:56:47,382 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:57:27,677 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:57:27,677 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:57:27,678 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:57:27,678 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:58:11,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:58:11,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:58:11,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:58:11,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 14:58:58,195 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:58:58,195 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 14:58:58,195 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 14:58:58,196 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:00:04,866 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:00:04,866 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:00:04,867 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:00:04,867 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:04:27,714 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:04:27,714 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:04:27,715 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:04:27,715 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:05:11,085 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:05:11,085 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:05:11,086 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:05:11,086 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:05:15,249 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:05:15,249 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:05:15,250 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:05:15,250 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:05:21,737 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:05:21,737 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:05:21,738 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:05:21,738 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:06:29,297 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:06:29,297 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:06:29,298 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:06:29,298 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:07:00,691 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:07:00,691 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:07:00,692 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:07:00,692 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:07:30,477 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:07:30,477 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:07:30,478 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:07:30,478 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:08:41,866 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:08:41,866 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:08:41,866 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:08:41,866 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:08:42,949 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:08:42,949 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:08:42,950 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:08:42,950 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:09:29,711 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:09:29,711 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:09:29,711 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:09:29,711 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:09:34,142 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:09:34,142 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:09:34,143 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:09:34,143 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:09:41,261 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:09:41,262 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:09:41,262 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:09:41,262 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:10:02,303 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:10:02,303 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:10:02,304 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:10:02,304 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:11:30,897 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:11:30,898 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:11:30,898 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:11:30,898 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:12:01,068 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:12:01,068 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:12:01,069 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:12:01,069 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:12:21,301 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:12:21,301 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:12:21,302 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:12:21,302 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:14:54,028 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:14:54,028 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:14:54,029 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:14:54,029 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:15:57,797 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:15:57,797 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:15:57,797 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:15:57,798 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:15:58,810 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:15:58,810 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:15:58,810 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:15:58,810 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources
+2021-08-25 15:20:21,954 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:20:21,954 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\main\resources
+2021-08-25 15:20:21,955 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-25 15:20:21,955 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\locadora\src\test\resources

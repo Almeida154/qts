@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\Etec\3°A\3º Bimestre (EaD)\Base Técnica\(QTS) Qualidade e Teste de Software\LocadoraQTS\.metadata\.plugins\org.eclipse.jdt.core
+3883950653.index
+1222339913.index
+2138595304.index
+1922345678.index

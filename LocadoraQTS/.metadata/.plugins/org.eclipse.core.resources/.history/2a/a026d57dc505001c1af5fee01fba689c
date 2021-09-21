@@ -1,0 +1,30 @@
+package view;
+import java.util.Date;
+import org.junit.Test;
+
+import controller.DataUtil;
+import model.Client;
+import model.Game;
+import model.Location;
+
+public class LocationService {
+	@Test
+	public static void main(String[] args) {
+		
+		// Scenery
+		Client client = new Client("David");
+		Game game = new Game("Rocket League", 35.00, 5);
+		
+		// Action
+		DataUtil dataUtil = new DataUtil();
+		Location location = dataUtil.rentGame(client, game, 3);
+		
+		// Verification
+		System.out.println(location.getGame().getName().equals(game.getName()));
+		System.out.println(location.getClient().getName().equals(client.getName()));
+		System.out.println(location.getValue() == game.getValue());
+		Date dates[] = {location.getPullout(), new Date()};
+		System.out.println(new DataUtil().areEqualDates(dates));
+		System.out.println(location.getQuantity() <= game.getInventory()); // Inventory
+	}
+}

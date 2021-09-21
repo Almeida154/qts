@@ -1,0 +1,87 @@
+package controller;
+import java.util.Calendar;
+import java.util.Date;
+
+import model.Client;
+import model.Game;
+import model.Location;
+
+import util.Util;
+
+import org.junit.Test;
+
+public class LocationController {
+	
+	private final int patternDays = 5;
+	@Test
+	public Location rentGame(Client client, Game game, int quantity) {		
+		Date devolution = new Util().addDays(new Date(), patternDays);
+		Location location = new Location(
+				client, game, new Date(), devolution, game.getValue(), quantity
+			);
+		return location;
+	}
+	
+	boolean verifyName(String game, String rentedGame) {
+		return game.equals(rentedGame);
+	}
+	
+	boolean verifyClient(String client, String rentedByClient) {
+		return client.equals(rentedByClient);
+	}
+	
+	boolean verifyPrice(String price, String rentedPrice) {
+		return price.equals(rentedPrice);
+	}
+	
+	boolean verifyDevolution(String game, String rentedGame) {
+		return game.equals(rentedGame);
+	}
+}
+
+//CÓDIGO ORIGINAL:
+
+//package services;
+//
+//import java.util.Date;
+//
+//import Util.DataUtil;
+//import qts.Locadora.model.Cliente;
+//import qts.Locadora.model.Jogo;
+//import qts.Locadora.model.Locacao;
+//
+//public class LocacaoService {
+//	private final int diasPadrao = 5;
+//	public Locacao alugarJogo(Cliente cliente, Jogo jogo) {
+//		Locacao locacao =new Locacao();
+//		locacao.setCliente(cliente);
+//		locacao.setJogo(jogo);
+//		locacao.setValor(jogo.getValor());
+//		locacao.setRetirada(new Date());
+//		
+//		Date devolucao = new DataUtil().addDias(new Date(),diasPadrao);
+//		locacao.setDevolucao(null);
+//		return locacao;
+//	}
+//
+//	public static void main(String[] args) {
+//		// cenario
+//		Cliente cliente = new Cliente("Wellington");
+//		Jogo jogo = new Jogo("Homem Aranha",15.00, 5);
+//		
+//		//ação
+//		LocacaoService locacaoService = new LocacaoService();
+//		Locacao locacao = locacaoService.alugarJogo(cliente, jogo);
+//		
+//		//verificação
+//		System.out.println(locacao.getJogo().getNome().equals(jogo.getNome()));
+//		System.out.println(locacao.getCliente().getNome().equals(cliente.getNome()));
+//		System.out.println(locacao.getValor()==jogo.getValor());
+//		//System.out.println(locacao.getRetirada().compareTo(new Date())==0);
+//		System.out.println(new DataUtil().verificaDatasIguais(locacao.getRetirada(), new Date()));
+//		
+//		
+//
+//	}
+//
+//}

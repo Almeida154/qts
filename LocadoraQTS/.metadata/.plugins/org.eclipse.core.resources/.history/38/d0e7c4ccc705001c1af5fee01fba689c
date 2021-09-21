@@ -1,0 +1,25 @@
+package controller;
+import java.util.Calendar;
+import java.util.Date;
+
+import model.Client;
+import model.Game;
+import model.Location;
+
+import util.Util;
+
+import org.junit.Test;
+
+public class LocationController {
+	
+	private final int patternDays = 5;
+	@Test
+	public Location rentGame(Client client, Game game, int quantity) {		
+		Date devolution = new LocationController().addDays(new Date(), patternDays);
+		Location location = new Location(
+				client, game, new Date(), devolution, game.getValue(), quantity
+			);
+		return location;
+	}
+	
+}
